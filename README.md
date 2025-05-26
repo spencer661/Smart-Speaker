@@ -8,6 +8,7 @@ It also has a lidar sensor for gesture control. Hand movement away from it plays
 It also features 3 buttons to control the music playing.
 It also features a PIR motion sensor which detects motion and if there is no motion after a few minutes turns off the speaker.
 It also features an LED cube with synchronises with the music being played.
+We also created a web interface and linked it to the speaker. How this works is, after we run the code on arduino IDE with the hardware connected, we type the IP address online and are able to assess the website to control the speaker.
 
 
 To run this code you will have to set up the ESP32 with the components we used to build the hardware part of the speaker like the DF Player mini-MP3 module, lidar sensor, PI motion sensor, buttons, LED cube.
